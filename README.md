@@ -1,2 +1,3 @@
-# Atomistic-Modelling-of-Materials
+# Scientific Computing Practical and Example codes
 AMM
+ITM
